@@ -3,13 +3,18 @@ An custom theme and color_theme of Sublime Text 3
 
 Based on Theme **[Afterglow](https://github.com/YabataDesign/afterglow-theme)**
 
-Based on Color Theme **Flatland - Monokai.tmTheme**, edit with (tmTheme Editor)[https://github.com/aziz/tmTheme-Editor]
+Based on Color Theme **Flatland - Monokai.tmTheme**, edit with [tmTheme Editor](https://github.com/aziz/tmTheme-Editor)
 
 Screenshot:
 
-![Screenshot.png](./screenshot.png)
+![Screenshot.png](./screenshot.jpg)
 
-Theme setting:
+Used:
+
+> Clone and copy *Theme - Afterglow* to the Sublime Text 3 directory **/Packages**, by click menu `Preferences > Browse Packages... `
+
+
+Theme settings:
 
 ```json
     // Afterglow https://github.com/YabataDesign/afterglow-theme
