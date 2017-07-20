@@ -5,16 +5,15 @@ Based on Theme **[Afterglow](https://github.com/YabataDesign/afterglow-theme)**
 
 Based on Color Theme **Flatland - Monokai.tmTheme**, edit with [tmTheme Editor](https://github.com/aziz/tmTheme-Editor)
 
-Screenshot:
+### Screenshot
 
 ![Screenshot.png](./screenshot.jpg)
 
-Used:
+### Install
 
 > Clone and copy *Theme - Afterglow* to the Sublime Text 3 directory **/Packages**, by click menu `Preferences > Browse Packages... `
 
-
-Theme settings:
+### Theme settings
 
 ```json
     // Afterglow https://github.com/YabataDesign/afterglow-theme
