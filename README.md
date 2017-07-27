@@ -11,7 +11,10 @@ Based on Color Theme **Flatland - Monokai.tmTheme**, edit with [tmTheme Editor](
 
 ### Install
 
-> Clone and copy *Theme - Afterglow* to the Sublime Text 3 directory **/Packages**, by click menu `Preferences > Browse Packages... `
+1. git clone https://github.com/whorusq/stx3-theme-and-color_theme
+2. copy *Theme - Afterglow* to the Sublime Text 3 directory **/Packages**
+
+    > click menu `Preferences > Browse Packages... `
 
 ### Theme settings
 
